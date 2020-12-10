@@ -1,6 +1,6 @@
 # Racing Hangman
 
-This small game was created as a final project for ICS 3UI, in which students had to build a single file graphical hangman clone from scratch using only John Zelle's graphics library.
+This small game was created as a final project for ICS 3UI, in which students had to build a single file graphical hangman clone from scratch using only John Zelle's graphics library. Must be run with PyScripter to work without error.
 
 ![Image 1](/readme-files/image1.png)
 
